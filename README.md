@@ -6,11 +6,15 @@ Playground for experimenting with styling + page layout.
 * HTML
 * Semantic HTML
 * CSS
+* CSS Reset
+  * compressed set of CSS rules that *resets* the styling of all HTML elements to a consistent baseline.
 * Google Fonts API
 * GitHub Page Deployment
 
 ## Resources & Acknowledgements
 [Google Fonts API](https://fonts.google.com/)
+
+[CSS Reset](https://cssdeck.com/blog/what-is-a-css-reset/)
 
 Information:
 * [Coffee production in Brazil](https://en.wikipedia.org/wiki/Coffee_production_in_Brazil)
