@@ -3,8 +3,8 @@ Personal playground for trying out different styles and page layouts.
 
 ## Features
 * HTML
-* CSS
 * Semantic HTML
+* CSS
 * Google Fonts API
 
 # Resources & Acknowledgements
