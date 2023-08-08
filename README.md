@@ -1,6 +1,26 @@
 # Coffee Blog
+Personal playground for trying out different styles and page layouts.
+
+## Features
+* HTML
+* CSS
+* Semantic HTML
 
 # Resources & Acknowledgements
+[Coffee production in Brazil](https://en.wikipedia.org/wiki/Coffee_production_in_Brazil)
+
+[Coffee production in Colombia](https://en.wikipedia.org/wiki/Coffee_production_in_Colombia)
+
+[Coffee production in India](https://en.wikipedia.org/wiki/Coffee_production_in_India)
+
+[Coffee production in Ethiopia](https://en.wikipedia.org/wiki/Coffee_production_in_Ethiopia)
+
+[Coffee production in Costa Rica](https://en.wikipedia.org/wiki/Coffee_production_in_Costa_Rica)
+
+[Coffee production in Kenya](https://en.wikipedia.org/wiki/Coffee_production_in_Kenya)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
+
 [The Coffee Buyer's Guide to Brazil](https://www.baristahustle.com/lesson/cbgb-5-01-exploring-coffee-production-in-brazil/)
 
 [A unique itinerary through the coffee region of Colombia! Tips and highlights](https://www.passporttheworld.com/coffee-region-colombia-itinerary/)
