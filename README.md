@@ -10,6 +10,8 @@ Playground for experimenting with styling + page layout.
 * GitHub Page Deployment
 
 # Resources & Acknowledgements
+[Google Fonts API](https://fonts.google.com/)
+
 Information:
 * [Coffee production in Brazil](https://en.wikipedia.org/wiki/Coffee_production_in_Brazil)
 
