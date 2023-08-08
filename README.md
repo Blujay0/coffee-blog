@@ -9,7 +9,7 @@ Playground for experimenting with styling + page layout.
 * Google Fonts API
 * GitHub Page Deployment
 
-# Resources & Acknowledgements
+## Resources & Acknowledgements
 [Google Fonts API](https://fonts.google.com/)
 
 Information:
