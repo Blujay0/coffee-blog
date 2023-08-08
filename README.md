@@ -6,6 +6,7 @@ Personal playground for trying out different styles and page layouts.
 * Semantic HTML
 * CSS
 * Google Fonts API
+* GitHub Page Deployment
 
 # Resources & Acknowledgements
 [Coffee production in Brazil](https://en.wikipedia.org/wiki/Coffee_production_in_Brazil)
