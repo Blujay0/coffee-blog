@@ -1,6 +1,5 @@
 # Coffee Blog
 Personal playground for trying out different styles and page layouts. <br />
-Playground for experimenting with styling + page layout.
 
 ## Features
 * HTML
